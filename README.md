@@ -14,8 +14,8 @@
 # 2024.03.21
 ## Python
  - Current Version : 3.12.2
- - Install Version : 3.9.13(2024.05.17) -> 3.9.19(2024.03.19) Security Fix
- * TensorFlow : Python 3.6 ~ 3.9 지원(Pip 19.0 이상)
+ - Install Version : 3.9.13(2024.05.17, pip 22.0.4) -> 3.9.19(2024.03.19) Security Fix
+ - TensorFlow : Python 3.6 ~ 3.9 지원(Pip 19.0 이상)
 
 ## Keras
  - Current Version : 3.0.0
@@ -25,6 +25,6 @@
 
 ## Pip
  - pip list
- - pip install --upgrade pip
+ - pip install --upgrade pip (pip 24.0)
  - pip --version
  

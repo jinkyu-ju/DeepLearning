@@ -17,14 +17,25 @@
  - Install Version : 3.9.13(2024.05.17, pip 22.0.4) -> 3.9.19(2024.03.19) Security Fix
  - TensorFlow : Python 3.6 ~ 3.9 지원(Pip 19.0 이상)
 
+## TensorFlow
+ - pip install tensorflow==2.15.0
+ - pip install matplotlib
+ -
+ -
+
 ## Keras
  - Current Version : 3.0.0
  - Google Colab Version : 2.15.0
  - Backend : JAX, TensorFlow, Pytorch
  - 3.0.0, 2.15.0 : TensorFlow 2.15.0 호환
+ - pip install keras==2.15.0 => 설치
 
 ## Pip
  - pip list
  - pip install --upgrade pip (pip 24.0)
  - pip --version
+
+## VirtualEnv
+ - pip install virtualenv
+
  

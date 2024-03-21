@@ -6,7 +6,19 @@
 
 ### User#2 : HyeJinKyu's Galaxy360
  - git config --global user.name "HyeJinKyu's Galaxy360"
- 
+
 ### User#3 : JinKyu's InternetPC
  - git config --global user.name "JinKyu's InternetPC"
  
+
+# 2024.03.21
+## Python
+ - Current Version : 3.12.2
+ - Install Version : 3.9.13(2024.05.17) -> 3.9.19(2024.03.19) Security Fix
+ * TensorFlow : Python 3.6 ~ 3.9 지원(Pip 19.0 이상)
+
+## Keras
+ - Current Version : 3.0.0
+ - Google Colab Version : 2.15.0
+ - Backend : JAX, TensorFlow, Pytorch
+ - 3.0.0, 2.15.0 : TensorFlow 2.15.0 호환

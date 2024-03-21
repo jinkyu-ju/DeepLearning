@@ -22,3 +22,9 @@
  - Google Colab Version : 2.15.0
  - Backend : JAX, TensorFlow, Pytorch
  - 3.0.0, 2.15.0 : TensorFlow 2.15.0 호환
+
+## Pip
+ - pip list
+ - pip install --upgrade pip
+ - pip --version
+ 

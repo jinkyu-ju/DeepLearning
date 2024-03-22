@@ -9,7 +9,10 @@
 
 ### User#3 : JinKyu's InternetPC
  - git config --global user.name "JinKyu's InternetPC"
- 
+
+### User#4 : HyeJinKyu's MacBook Pro14
+ - git config --global user.name "HyeJinKyu's MacBook Pro14"
+
 
 # 2024.03.21
 ## Python

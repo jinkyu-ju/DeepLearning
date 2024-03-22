@@ -30,7 +30,7 @@
  - 3.0.0, 2.15.0 : TensorFlow 2.15.0 호환
  - pip install keras==2.15.0 => 설치
  - CUDA : 
- - cuDNN : 
+ - cuDNN : 8.1
 
 ## Pip
  - pip list

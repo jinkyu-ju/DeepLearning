@@ -9,7 +9,10 @@
 
 ### User#3 : JinKyu's InternetPC
  - git config --global user.name "JinKyu's InternetPC"
- 
+
+### User#4 : HyeJinKyu's MacBook Pro14
+ - git config --global user.name "HyeJinKyu's MacBookPro14"
+
 
 # 2024.03.21
 ## Python
@@ -29,6 +32,8 @@
  - Backend : JAX, TensorFlow, Pytorch
  - 3.0.0, 2.15.0 : TensorFlow 2.15.0 호환
  - pip install keras==2.15.0 => 설치
+ - CUDA : 
+ - cuDNN : 8.1
 
 ## Pip
  - pip list

@@ -43,4 +43,25 @@
 ## VirtualEnv
  - pip install virtualenv
 
+# 2024.03.26
+## Local
+ #### Windows Native
+ - https://www.tensorflow.org/install/pip?hl=ko#windows-native_1
+
+ #### MiniConda(Python 3.9)
+ - https://docs.anaconda.com/free/miniconda/miniconda-other-installer-links
+ - > conda create --name TensorFlow-GPU python=3.9
+ - > conda deactivate
+ - > conda activate TensorFlow-GPU
+ - > conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
+ - > pip install --upgrade pip
+ - > pip install "tensorflow<2.11"
+
+ #### CUDA(GPU) 확인
+ - > python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
+ - > python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+
+## Google Colab
+
+
  

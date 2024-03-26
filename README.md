@@ -61,7 +61,19 @@
  - > python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
  - > python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 
+ #### Environment Version
+ - > Python > !python -V : Python 3.9.19
+ - > Pip > !pip -V : pip 24.0 (python 3.9)
+ - > TensorFlow > import tensorflow as tf;print(tf.__version__); : 2.10.1
+ - > Keras > import keras;print(keras.__version__); : 2.10.0
+ - > CUDA > conda list cudatoolkit : 11.2.2(h7d7167e_13)
+
 ## Google Colab
+ - > Python > !python -V : Python 3.10.12
+ - > Pip > !pip -V : pip 23.1.2 from /usr/local/lib/python3.10/dist-packages/pip (python 3.10)
+ - > TensorFlow > import tensorflow as tf;print(tf.__version__); : 2.15.0
+ - > Keras > import keras;print(keras.__version__); : 2.15.0
+ - > CUDA > !nvcc --version : V12.2.140(33191640_0)
 
 
  

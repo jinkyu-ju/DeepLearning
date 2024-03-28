@@ -74,6 +74,7 @@
  - > TensorFlow > import tensorflow as tf;print(tf.__version__); : 2.15.0
  - > Keras > import keras;print(keras.__version__); : 2.15.0
  - > CUDA > !nvcc --version : V12.2.140(33191640_0)
+ 
 
 
  

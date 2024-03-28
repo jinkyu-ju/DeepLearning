@@ -43,7 +43,6 @@
 ## VirtualEnv
  - pip install virtualenv
 
-<<<<<<< HEAD
 # 2024.03.26
 ## Local
  #### Windows Native
@@ -76,8 +75,4 @@
  - > Keras > import keras;print(keras.__version__); : 2.15.0
  - > CUDA > !nvcc --version : V12.2.140(33191640_0)
  
-
-
-=======
->>>>>>> b4767d566ba2bd76423ab9add8ccda99fbb96a2f
  
